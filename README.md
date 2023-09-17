@@ -11,6 +11,7 @@
     <a href="https://raw.githubusercontent.com/railt/introspection/master/LICENSE.md"><img src="https://poser.pugx.org/railt/introspection/license" alt="License MIT"></a>
 </p>
 
+> This package is **deprecated**
 
 ## Introspection
 
